@@ -1,0 +1,22 @@
+{
+  "name": "@dayan/mine",
+  "version": "1.0.0",
+  "description": "Just to reserve namespace",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mucahiddayan/npm.git"
+  },
+  "keywords": [
+    "Namespace"
+  ],
+  "author": "mucahiddayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mucahiddayan/npm/issues"
+  },
+  "homepage": "https://github.com/mucahiddayan/npm#readme"
+}
